@@ -1,12 +1,16 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
-  "skills": [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
-  ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "description": "I'm a Computer Science student studying at City University of Seattle. I enjoy creating programs that solve real problems using creative & boring ways.",
+  "skills": {
+  "name": "Thaddeus Thomas",
+  "title": "Web Designer & Content Creator",
+  "email": "thaddeus.r.thomas@gmail.com",
+  "gitHub": "thomasthaddeus",
+  "devDotTo": ,
+  "instagram": false,
+  "linkedIn": "thaddeusthomas",
+  "medium": "",
+  "twitter": "ThaddeusMaxima",
+  "youTube": "ThaddeusThomas",
+};
+  "detailOrQuote": "Hello I'm Thaddeus Thomas, Information Systems Student and Aspiring Cybersecurity Professional. Currently in my final year of a bachelor’s degree in information systems, I have developed a passion for cybersecurity through participation in CTFs hosted by organizations such as the NSA, NCL, Snyk, HackTheBox, and TryHackMe. I enjoy writing code to break cryptographic ciphers and am eager to learn more about the field. I joined CLARK.center to connect with industry professionals, contribute to the cybersecurity community, and serve as a proxy for sharing valuable content. Feel free to reach out to me via https://linkin.com/thaddeusthomas/."
 }
